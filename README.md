@@ -13,3 +13,11 @@ function updateCounter() {
     
 
 ```
+
+## [index.html](https://github.com/salmansheri/Charactercounter/blob/main/index.html)
+---
+
+## [styles.css](https://github.com/salmansheri/Charactercounter/blob/main/styles.css)
+---
+## [index.js](https://github.com/salmansheri/Charactercounter/blob/main/index.js)
+
